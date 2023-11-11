@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         YAPS (Y)ouTube (A)dblock (P)opup (S)topper
-// @version      0.3
+// @version      0.4
 // @description  Simple script that removes the popup that appears on YouTube about AdBlock
 // @author       TheRealGeoDash
 // @match        https://www.youtube.com/watch*
 // @grant        none
-// @run-at       document-start
+// @run-at       document-body
 // ==/UserScript==
 
 (function() {

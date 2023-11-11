@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube Adblock Popup Stopper
+// @name         YAPS (Y)ouTube (A)dblock (P)opup (S)topper
 // @version      0.3
 // @description  Simple script that removes the popup that appears on YouTube about AdBlock
 // @author       TheRealGeoDash
